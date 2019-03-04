@@ -1,0 +1,4 @@
+1. Place the complete folder in xampp/ htdocs.
+2. Run Apache server.
+3. Username for admin is admin and password is admin@123.
+4. For student login type the name==password as same while login process.
